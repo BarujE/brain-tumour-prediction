@@ -102,7 +102,7 @@ img, label = test_dl.dataset[idx]
 unnorm = img * 0.5 + 0.5
 plt.imshow(to_pil_image(unnorm))
 plt.axis('off')
-plt.title('Sample from the test you fucking negro')
+plt.title('Sample from the test')
 plt.show()
 
 with torch.no_grad():
@@ -112,5 +112,6 @@ with torch.no_grad():
 
 class_names = test_dl.dataset.classes
 print(f'Predicted: {class_names[pred]}, Actual: {class_names[label]}')
+
 
 
