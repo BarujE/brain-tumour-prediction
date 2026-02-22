@@ -6,7 +6,7 @@ import os
 from pathlib import Path
 
 
-data_dir = Path(r'c:\Users\baruj\OneDrive\Documents\python projects\data')
+data_dir = Path()
 train_path = str(data_dir / 'Training')
 test_path = str(data_dir / 'Testing')
 
@@ -112,4 +112,5 @@ with torch.no_grad():
 
 class_names = test_dl.dataset.classes
 print(f'Predicted: {class_names[pred]}, Actual: {class_names[label]}')
+
 
