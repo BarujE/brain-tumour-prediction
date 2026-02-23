@@ -1,2 +1,4 @@
 # brain-tumour-prediction
-i made this like a couple of months ago might aswell share this
+
+A turn of the century for the new humliation of my project.
+
