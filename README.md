@@ -1,6 +1,6 @@
 # brain-tumour-prediction
 
-A turn of the century for the new humliation of my project.
+A turn of the century for the new humliation 
 
-https://github.com/BarujE/brain-tumour-prediction/blob/db44f346ee335879c08d6d2b0e1a3ecc8acfc020/Assets/face-angry.png
 
+![???](https://github.com/BarujE/brain-tumour-prediction/blob/main/Assets/face-angry.png?raw=true) look at this image this is how i felt 2 nights ago
